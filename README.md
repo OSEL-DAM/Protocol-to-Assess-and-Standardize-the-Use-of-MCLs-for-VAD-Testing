@@ -1,1 +1,1 @@
-This GitHub page contains a protocol for assessing and standardizing the use of mock circulatory loops in ventricular assist device testing.
+This GitHub page contains a protocol for assessing and standardizing the use of mock circulatory loops in ventricular assist device testing. The file "MCL_VAD_Study_Datacollection.xlsx" can be used for data collection and reporting. The file "MCL_VAD_Study_MCLinnformation.xlsx" can be used to describe and characterize individual MCLs.
